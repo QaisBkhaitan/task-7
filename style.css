@@ -1,0 +1,46 @@
+.btn{
+    padding: 20px;
+    border: 0;
+    border-radius: 50%;
+    background-color: rgba(227, 104, 104, 0.2);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.btn2{
+    padding: 20px;
+    border: 0;
+    border-radius: 50%;
+    background-color: rgba(227, 104, 104, 0.2);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.btn3{
+    padding: 20px;
+    border: 0;
+    border-radius: 50%;
+    background-color: rgba(227, 104, 104, 0.2);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.btn4{
+    padding: 20px;
+    border: 0;
+    border-radius: 50%;
+    background-color: rgba(227, 104, 104, 0.2);
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
